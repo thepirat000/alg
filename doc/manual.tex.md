@@ -1,3 +1,4 @@
+```math
 \documentclass{article}
 
 \usepackage{fullpage}
@@ -760,3 +761,4 @@ The Mathematics and Computation blog at
 discussion about alg.
 
 \end{document}
+```
